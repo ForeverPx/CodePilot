@@ -1,0 +1,23 @@
+src/app/api/providers/models/route.ts
+  fb61a44fc59b4c1b 2-4,60-76,100-105,110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "00a152fa23ce7da19213589be5ebf0a690300849",
+  "prompts": {
+    "fb61a44fc59b4c1b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2af8e3cf-37fb-460c-868b-e77a7d2781f5",
+        "model": "claude-4.6-sonnet-medium-thinking"
+      },
+      "human_author": "panxiao <panxiao@cvte.com>",
+      "messages": [],
+      "total_additions": 28,
+      "total_deletions": 1,
+      "accepted_lines": 28,
+      "overriden_lines": 0
+    }
+  }
+}
